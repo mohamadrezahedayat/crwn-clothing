@@ -21,3 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+src/assets/images/hats.png
+src/assets/images/jackets.png
+src/assets/images/men.png
+src/assets/images/sneakers.png
+src/assets/images/womens.png
